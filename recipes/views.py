@@ -9,7 +9,7 @@ def home_view(request):
     })
 
 def sobre_view(request):
-    return render(request, 'temp/temp.html')
+    return HttpResponse('HTTP RESPONSE - SOBRE')
 
 def contato_view(request):
-    return HttpResponse('HTTP RESPONSE - CONTATO')
+    return render(request, 'recipes/contato.html')
