@@ -4,3 +4,5 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Status
 --> Métodos de requisição HTTP
 https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods
 
+--> Gerador de placeholder
+https://placehold.co/
